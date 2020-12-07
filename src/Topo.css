@@ -1,0 +1,43 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #FAFAFA;
+    height: 60px;
+  }
+  
+  .container{
+    width: 1308px;
+    display: flex;
+    align-items: center;
+
+  }
+  
+  .container img{
+    margin: 10px;
+    padding: 10px 5px 10px;    
+    color: #838C91;
+    
+  }
+  
+  .itemMenu{
+    flex: 1;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    color: #838C91;
+    display: flex;
+  }
+  .container div div{
+    flex:1;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .menuOpcoes{
+      flex:3;
+  }
+
+  .menuBusca{
+      flex:1;
+  }
+  

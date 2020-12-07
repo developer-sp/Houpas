@@ -1,0 +1,96 @@
+.products{
+    height:565px;
+    display: flex;
+    justify-content: center;
+}
+.prodCenter{
+    display: flex;
+    justify-content: space-between;
+    width: 1308px;
+}
+.arrowLeft{
+    width: 18px;
+    align-self: center;
+    margin-top: -160px;
+    padding: 10px;
+}
+.arrowRight{
+    align-self: center;
+    margin-top: -160px;
+    width: 18px;
+    padding: 10px;
+}
+.forProd{
+    width: 1232px;
+    display: flex;
+    justify-content: space-between;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+}
+.prodContainer{
+    width: 236px;
+    height: 565px;
+}
+.bgProd{
+    width: 236px;
+    height: 413px;
+    display: flex;
+    background-image: url("../images/product/imageProduct.png");
+    background-repeat: no-repeat;
+}
+.round {
+    margin-left: 192px;
+    margin-top: 15px;
+    border-radius: 100%;
+    overflow: hidden;
+    height: 30px;
+    width:30px;
+    background: #FFF;
+}
+
+.round img {
+    align-self: center;
+    justify-self: center;
+    padding: 9px 7px 7px 7px;
+    width: 15px;
+    height: 14px;
+}
+.infoProd{
+    width: 236px;
+    height: 152px;
+}
+.descProd{
+    padding-top: 16px;
+    padding-bottom: 10px;
+    font-family: 'Roboto', Regular;
+    height: 38px;
+    font-size: 16px;
+    text-align: center;
+    
+}
+.precoProd{
+    padding-bottom: 12px;
+    height: 24px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+    color: #707070;
+
+}
+.infoProd .button {
+    width: 94px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    margin: 0 71px;
+    text-decoration: none;
+    display: block;
+}

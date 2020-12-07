@@ -1,0 +1,201 @@
+.prod{  
+    width: 786px;
+    height: 599px;
+    background-image: url("./images/product/product-top.png");
+    background-repeat: no-repeat;
+    margin-left: 310px;
+    margin-right: 205px;
+
+}
+
+.contaner{
+    width: 1920px;
+    display: flex;
+}
+
+.aside{
+    width: 315px;
+    
+
+}
+#vestidos {
+    width: 62px;
+    height: 19px;
+    color: #707070;
+    margin-top: 12px;
+    margin-right: 217px;
+    margin-bottom: 11px;
+    font-size: 16px;
+}
+#vestido_curto{
+    width: 134px;
+    height: 28px;
+    color: #222222;
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+#produzido_entregue{
+    width:223px;
+    height: 28px;
+    color: #222222;
+    font-size: 10px;
+    margin-bottom: 17px;
+    
+}
+#preco{
+    width:93px;
+    height: 33px;
+    font-size: 24px;
+    margin-bottom: 3px;
+    color:#222222;
+}
+#divide{
+    width:252px;
+    height:14px;
+    color:#707070;
+    font-size: 10px;
+    margin-bottom: 17px;
+}
+#tamanho{
+    width: 53px;
+    height: 14px;
+    font-size: 10px;
+    margin-bottom: 5px;
+    
+}
+#tamanhos{
+    display: flex;
+}
+#tamanhos div{
+    
+    
+    width: 24px;
+    height: 32px;
+    line-height: 32px;
+    margin-right: 18px;
+    margin-bottom: 39px;
+    background-color: #E9E9E9;
+    color:#707070;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 4px;
+}
+#quantidade{
+    width: 82px;
+    height: 19px;
+    font-size: 14px;
+    color: #222222;
+    margin-bottom: 5px;
+
+
+}
+#inputQuant input{
+    width:86px;
+    height: 40px;
+    margin-right: 16px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.aviseMe{
+    width: 129px;
+    height:14px;
+    font-size: 10px;
+    color: #222222;
+    display: inline;
+}
+#comprar {
+    background-color: #000000;
+    width: 314px;
+    height:48px;
+    line-height: 48px;
+    color:white;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    
+}
+
+#adicionarAoCarrinho {
+    background-color: ;
+    width: 312px;
+    height: 46px;
+    line-height: 48px;
+    color:#222222;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid #222222;
+
+}
+
+#frete{
+    width:50px;
+    height: 28px;
+    color:#222222;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 6px;
+    
+}
+.calculeFrete {
+    color:#222222;
+    font-size: 12px;
+    width: 251px;
+    height: 17px;
+    margin-bottom: 6px;
+
+}
+.input_frete  input{
+    width: 203px;
+    height: 38px;
+    color: #C8C8C8;
+    font-size: 12px;
+    padding-left: 17px;
+    margin-right: 16px;
+    border: 1px solid #E9E9E9;
+
+}
+
+#calcularFrete {
+    background-color: #000000;
+    width: 90px;
+    height:40px;
+    line-height: 40px;
+    color:white;
+    border-radius: 4px;
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+    display: inline;
+    /* padding: 10px; */
+    padding: 11px 14px 11px 14px;
+    
+}
+.naoSeiCep {
+    margin-top: 6px;
+    color: #222222;
+    width:92px;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+.caracteristicas{  
+    width: 786px;
+    height: 599px;
+    margin-top:28px;
+    font-size: 12px;
+    color: #222222;
+    margin-left: 327px;
+    margin-right: 205px;
+
+}
+
